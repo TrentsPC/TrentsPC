@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrentsPC
-- 👀 I’m interested in finding a way out of this maze
-- 🌱 I’m currently learning how to get out of this maze
-- 💞️ I’m looking to collaborate on getting out of this maze
-- 📫 How to reach me im not sure, im lost
+- 👀 I’m interested in... Finding a way out of this maze
+- 🌱 I’m currently learning... How to get out of this maze
+- 💞️ I’m looking to collaborate on... Getting out of this maze
+- 📫 How to reach me... Im not sure, im lost
